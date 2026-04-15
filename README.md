@@ -1,4 +1,4 @@
-# ARCHON-text-mining-workshop-2026
+# ARCHON text mining workshop 2026
 
 This repo contains the materials for a short (45 minute) workshop on text mining Python. This course starts from the basics, and assumes you have no prior coding experience. 
 
