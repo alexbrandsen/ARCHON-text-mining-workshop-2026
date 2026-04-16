@@ -2,6 +2,10 @@
 
 This repo contains the materials for a short (45 minute) workshop on text mining Python. This course starts from the basics, and assumes you have no prior coding experience. 
 
+## Slides
+
+The slides can be viewed [here](ARCHON-workshop-slides.pdf).
+
 ## Get started 
 
 To start, follow these steps:
